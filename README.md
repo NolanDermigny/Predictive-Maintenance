@@ -9,4 +9,5 @@ This project uses time series sensor data to predict machine failures. It explor
 
 ## 🔧 Tools
 - Python, Pandas, Scikit-Learn, TensorFlow, Streamlit
+- Note: using python version 3.11.9 for compatibility with tensorflow, see requirements.txt file for version info
 
